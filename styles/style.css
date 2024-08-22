@@ -37,8 +37,8 @@ body::after {
     cursor: pointer;
 }
 
-/* .header span:last-child:hover::before { */
-.header span:last-child::before {
+.header span:last-child:hover::before {
+/* .header span:last-child::before { */
     content: 'На самом деле нет.\AВажнее &mdash; научиться ошибаться.';
     white-space: pre;
     display: block;
